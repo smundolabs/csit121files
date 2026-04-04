@@ -6,6 +6,7 @@ body {
   width: 90%;
   min-width: 800px;
   max-width: 1200px;
+  background: lightblue
 }
 
 h1 {
@@ -24,20 +25,22 @@ h1 {
 /* nav menu */
 
 ul {
-  padding: 0;
+  padding: 400px 0;
   list-style-type: none;
   text-align: center;
   display: flex;
   flex-flow: row wrap;
   justify-content: center;
   align-items: center;
+  position: center ;
+
 }
 
 li {
   flex: auto;
 }
 
-nav a {
+nav  {
   font-size: 1.2em;
   padding: 0 20px;
 }
@@ -46,7 +49,7 @@ nav a {
 
 a {
   text-decoration: none;
-  color: red;
+  color: green;
 }
 
 a:hover,
