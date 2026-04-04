@@ -13,12 +13,13 @@ h1 {
 }
 
 .copyright {
-  font-size: 0.8em;
+  font-size: 0.5em;
 }
 
 .logo {
-  width: 100px;
+  width: 500px;
   height: auto;
+  align-content: center;
 }
 /* nav menu */
 
