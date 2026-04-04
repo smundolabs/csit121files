@@ -16,6 +16,10 @@ h1 {
   font-size: 0.8em;
 }
 
+.logo {
+  width: 100px;
+  height: auto;
+}
 /* nav menu */
 
 ul {
