@@ -1,0 +1,26 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: whitesmoke;
+  margin-top: 25px;
+}
+h2 {
+  color: purple;
+  margin-left: px20;
+}
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+
+#title {
+  text-align: center;
+  color: orangered;
+}
+
+*p {
+  margin-left: 20px;
+  color: green;
+}
