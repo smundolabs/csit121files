@@ -1,14 +1,15 @@
 body {
-  background-color: lightblue;
+  background-color: lightgray;
+  text-align: justify;
 }
 
 h1 {
   color: whitesmoke;
   margin-top: 25px;
 }
-h2 {
-  color: purple;
-  margin-left: px20;
+#h2 {
+  color: green;
+  margin-left: 20px;
 }
 p {
   font-family: verdana;
@@ -23,4 +24,25 @@ p {
 *p {
   margin-left: 20px;
   color: green;
+}
+
+#date {
+  color: black;
+  text-align: center;
+  font-size: 20px;
+}
+
+
+.container {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+}
+
+.container div {
+  background-color: #005c80;
+  margin: 30px;
+  padding: 25px;
+  font-size: 25px;
+  text-align: justify;
 }
